@@ -1,3 +1,30 @@
+# Ignore Python cache
 __pycache__/
 *.pyc
+
+# Ignore Jupyter checkpoint
 .ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables (nếu có)
+.env
+
+# Ignore Excel temporary files
+~$*
+
+# Ignore Power BI autosave files
+*.pbit
+
+# Ignore other
+*.bak
+*.tmp
