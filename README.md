@@ -17,10 +17,11 @@ I developed an integrated system using a multi-tool approach:
 * **Tool:** `Python (Pandas)`
 * **Solution:** Developed a script to traverse complex BOM structures, automatically identifying which "Buy" components are affected by an ECO. This transformed raw data into actionable intelligence for Planners.
 
+![BOM Breakdown](images/BOM%20break%20down.png)
 ### 2. Communication & Response Collection (VBA)
 * **Tool:** `VBA (Excel & Outlook)`
 * **Solution:** Automated the distribution of ECO impact reports to relevant stakeholders and implemented a system to collect and consolidate email responses/approvals into a central tracker.
-
+![Email Response Collection](images/email_response_collection.png)
 ### 3. Mass Action Automation (Playwright)
 * **Tool:** `Playwright (Python)`
 * **Solution:** Built a high-performance bot to handle bulk **Approve/Reject/Schedule** actions on the Oracle ERP (E-Business Suite) web interface.
@@ -30,6 +31,8 @@ I developed an integrated system using a multi-tool approach:
 * **Tool:** `Power BI`
 * **Solution:** Created a "Single Source of Truth" dashboard to monitor ECO status, approval aging, and team workload, ensuring 100% visibility.
 
+![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Detail](images/dashboard_detail.png)
 ---
 
 ## 📈 Key Results
