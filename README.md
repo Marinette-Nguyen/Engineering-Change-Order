@@ -1,4 +1,4 @@
-# ECO Management Tracking, Dashboard and API Support Tool
+# ECO Management Tracking, Dashboard and Support Tool
 
 ## 📌 Project Overview
 In a complex electronics manufacturing environment with multi-level Bill of Materials (BOM), the Engineering Change Order (ECO) process faced significant operational bottlenecks. This project provides an end-to-end automation suite to streamline ECO tracking, impact analysis, and mass approvals.
